@@ -284,20 +284,10 @@ MyPT 앱의 포즈추정, 개수세기, 자세평가 모델을 사용하는 방�
 |Android or IOS|[Google ML Kit](https://pub.dev/packages/google_ml_kit)|[Analysis Model](APP(Android)/lib/models/)|[Analysis Model](APP(Android)/lib/models/)|
 |Window or Linux|[MediaPipe](https://mediapipe.dev/)|[Tflite Model](AI(BE)/Previous_materials/)| - |
 
-## 8. 팀 정보
-|Name|GitHub|Responsibility|Major|Contact Us|
-|:-----:|:-----:|:-----:|:-----:|:-----:|
-|Hyun mingu|alsrnwlgp|Team Leader / Sub App UI Developer & Camera Service Developer|대구경북과학기술원(DGIST) 16학번 기초학부|alsrnwlgp@gmail.com|
-|Jongin Jun|jonginj0130|Main App UI Developer(Front-end)|Georgia Institute of Technology 20학번 컴퓨터과학부|jonginj0130@gmail.com|
-|Taehyun Park|todd-park|APP TEST & Backend developer|한밭대학교 18학번 컴퓨터공학과|pth0325@gmail.com|
-|Jaejun Han|HackerTiger|AI Engineer & Main Algorithm Developer|한국과학기술원(KAIST) 17학번 전기및전자공학부|hanjj03@naver.com|
-|MuSeong Park|MuSeongPark|AI Engineer & Sub Algorithm Developer & Voice Feedback System Developer|경상대학교 19학번 항공소프트웨어공학부|pms3620@gmail.com|
-
-
-## 9. 저작권 및 사용권 정보 (Copyleft / End User License)
+## 8. 저작권 및 사용권 정보 (Copyleft / End User License)
 &nbsp; [MIT License](license.md)
 
-## 10. 발전 가능성, 독창성, 협업 방식
+## 9. 발전 가능성, 독창성, 협업 방식
 &nbsp; a) 발전 가능성(확장 가능성)
 <br>MyPT에서 제공하는 운동 종류는 pushup, squat, pullup 3가지입니다. MyPT앱은 이 3가지 운동에 대해서만 국한되지 않고, 동일한 기술을 이용하여 다른 운동들에 대해서도 확장해나갈 수 있습니다. 오픈소스로 코드를 제공하는만큼, StrongFriends 팀의 코드를 보고 이를 이용하여 MyPT앱이 발전해나가면 좋겠습니다. 또한 위에서 언급한 selife segmentation같은 기능도 추가하여 평가 요소를 더욱 다양화할 수 있습니다.
 
